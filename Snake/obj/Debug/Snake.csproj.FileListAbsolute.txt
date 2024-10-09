@@ -1,0 +1,16 @@
+C:\Users\mefer\source\repos\Snake\Snake\bin\Debug\Snake.exe.config
+C:\Users\mefer\source\repos\Snake\Snake\bin\Debug\Snake.exe
+C:\Users\mefer\source\repos\Snake\Snake\bin\Debug\Snake.pdb
+C:\Users\mefer\source\repos\Snake\Snake\obj\Debug\Snake.csproj.AssemblyReference.cache
+C:\Users\mefer\source\repos\Snake\Snake\obj\Debug\MainWindow.g.cs
+C:\Users\mefer\source\repos\Snake\Snake\obj\Debug\App.g.cs
+C:\Users\mefer\source\repos\Snake\Snake\obj\Debug\Snake_MarkupCompile.cache
+C:\Users\mefer\source\repos\Snake\Snake\obj\Debug\Snake_MarkupCompile.lref
+C:\Users\mefer\source\repos\Snake\Snake\obj\Debug\App.baml
+C:\Users\mefer\source\repos\Snake\Snake\obj\Debug\MainWindow.baml
+C:\Users\mefer\source\repos\Snake\Snake\obj\Debug\Snake.g.resources
+C:\Users\mefer\source\repos\Snake\Snake\obj\Debug\Snake.Properties.Resources.resources
+C:\Users\mefer\source\repos\Snake\Snake\obj\Debug\Snake.csproj.GenerateResource.cache
+C:\Users\mefer\source\repos\Snake\Snake\obj\Debug\Snake.csproj.CoreCompileInputs.cache
+C:\Users\mefer\source\repos\Snake\Snake\obj\Debug\Snake.exe
+C:\Users\mefer\source\repos\Snake\Snake\obj\Debug\Snake.pdb
